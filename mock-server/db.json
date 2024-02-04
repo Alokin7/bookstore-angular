@@ -1,0 +1,110 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Philosopher's Stone",
+      "author": "ROWLING, J.K.",
+      "description": "Random text prve knjige",
+      "cover": "https://upload.wikimedia.org/wikipedia/hr/4/4a/HP1.jpg",
+      "deleted": false,
+      "price": "11.99",
+      "category": "Fantasy"
+    },
+    {
+      "id": "2",
+      "title": "The Chamber of Secrets",
+      "author": "ROWLING, J.K.",
+      "description": "Second book",
+      "cover": "https://upload.wikimedia.org/wikipedia/hr/e/e7/Harry_Potter2.jpg",
+      "deleted": "false",
+      "price": "12.99",
+      "category": "fantasy"
+    },
+    {
+      "id": "3",
+      "title": "The Prisoner of Azkaban",
+      "author": "ROWLING, J.K.",
+      "description": "Third book",
+      "cover": "https://upload.wikimedia.org/wikipedia/hr/d/d2/Harry_Potter_i_zatočenik_Azkabana.jpg",
+      "deleted": "false",
+      "price": "13.99",
+      "category": "fantasy"
+    },
+    {
+      "id": "4",
+      "title": "The Goblet of Fire",
+      "author": "Nikola",
+      "description": "Fourth book",
+      "cover": "https://upload.wikimedia.org/wikipedia/hr/b/b2/Harry_Potter_i_Plameni_pehar.jpg",
+      "deleted": false,
+      "price": 72.22,
+      "category": "fantasy"
+    },
+    {
+      "id": "5",
+      "title": "The Order of The Phoenix",
+      "author": "ROWLING, J.K.",
+      "description": "Fifth book",
+      "cover": "https://upload.wikimedia.org/wikipedia/hr/2/2b/HPcover2..jpg",
+      "deleted": "false",
+      "price": "15.99",
+      "category": "fantasy"
+    },
+    {
+      "id": "6",
+      "title": "The Half-Blood Prince",
+      "author": "ROWLING, J.K.",
+      "description": "Sixth book",
+      "cover": "https://upload.wikimedia.org/wikipedia/hr/b/b3/HPcover6..jpg",
+      "deleted": "false",
+      "price": "16.99",
+      "category": "fantasy"
+    },
+    {
+      "id": 777,
+      "title": "How to Train Your Dragon",
+      "author": "Cressida Cowell",
+      "description": "How to Train Your Dragon is a series of children's books written by British author Cressida Cowell. The books are set in a fictional Viking world, and focus on the experiences of protagonist Hiccup Horrendous Haddock the Third, as he overcomes obstacles on his journey of \"becoming a hero, the hard way\". The books were published by Hodder Children's Books in the UK and by Little, Brown and Company in the US. The first book was published in 2003 and the 12th and final one in 2015. By 2015, the series had sold more than seven million copies around the world",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/7/77/How_to_Train_Your_Dragon_%282003_book_cover%29.jpg",
+      "deleted": true,
+      "price": 9.99,
+      "category": "Fantasy, young adult fiction, coming of age"
+    }
+  ],
+  "roles": [
+    {
+      "id": "1",
+      "name": "admin"
+    },
+    {
+      "id": "2",
+      "name": "regular"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Nikola",
+      "lastName": "Markotic",
+      "roleId": 1,
+      "email": "marko.tic@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "2",
+      "firstName": "Marko",
+      "lastName": "Markovic",
+      "roleId": 2,
+      "email": "marko.vic@gmail.com",
+      "password": "54321"
+    },
+    {
+      "id": 1707066590401,
+      "email": "alokin.markotic@gmail.com",
+      "password": "123",
+      "firstName": "Nikola",
+      "lastName": "Markotić",
+      "roleId": 1
+    }
+  ]
+}

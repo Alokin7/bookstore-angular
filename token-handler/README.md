@@ -1,0 +1,11 @@
+# Instalacija
+Express, CORS, jsonwebtoken -> koristeni paketi
+
+"cors": "^2.8.5",
+"express": "^4.18.2",
+"jsonwebtoken": "^9.0.2"
+
+## Pokretanje
+node index.js
+
+Port je postavljen na 777 
